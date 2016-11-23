@@ -13,3 +13,7 @@ Remark.js is great. This boilerplate adds [Livereload.js](https://github.com/liv
 2. `npm install`
 3. `npm run watch`
 4. Open [presentation.html](presentation.html) in your browser. When you make changes your slides will automatically be reloaded in the browser.
+
+### Demo:
+
+![](demo.gif)
